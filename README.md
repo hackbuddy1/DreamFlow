@@ -36,7 +36,7 @@ Built with ❤️ using **Flutter**.
 
 | Home Screen | Add Task | Task List |
 |-------------|----------|-----------|
-| ![s1](assets/screenshots/dashboard.png) | ![s2](assets/screenshots/alltasks.png) | ![s3](assets/screenshots/calender.png) | ![s4](assets/screenshots/addnewtask)
+| ![s1](assets/screenshots/dashboard.jpg) | ![s2](assets/screenshots/alltasks.jpg) | ![s3](assets/screenshots/calender.jpg) | ![s4](assets/screenshots/addnewtask.jpg)
 
 
 
