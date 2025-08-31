@@ -14,10 +14,11 @@
 ## 📲 Download APK  
 
 <p align="center">
-  <a href="https://github.com/hackbuddy1/DreamFlow/raw/main/build/app/outputs/flutter-apk/app-release.apk">
-    <img src="https://img.shields.io/badge/⬇️ Download-App Release APK-brightgreen?style=for-the-badge&logo=android" />
+  <a href="https://github.com/hackbuddy1/DreamFlow/releases/download/v1.0.0/app-release.apk">
+    <img src="https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android" alt="Download APK">
   </a>
 </p>
+
 
 ---
 
@@ -35,7 +36,7 @@ Built with ❤️ using **Flutter**.
 
 | Home Screen | Add Task | Task List |
 |-------------|----------|-----------|
-| ![s1](assets/screenshots/home.png) | ![s2](assets/screenshots/add.png) | ![s3](assets/screenshots/list.png) |
+| ![s1](assets/screenshots/dashboard.png) | ![s2](assets/screenshots/alltasks.png) | ![s3](assets/screenshots/calender.png) | ![s4](assets/screenshots/addnewtask)
 
 
 
