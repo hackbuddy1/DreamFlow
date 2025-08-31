@@ -34,8 +34,8 @@ Built with ❤️ using **Flutter**.
 
 ## 📸 Screenshots  
 
-| Home Screen | Add Task | Task List |
-|-------------|----------|-----------|
+| Dashboard | All Tasks | Calender | Add tasks |
+|-------------|----------|-----------|-----------|
 | ![s1](assets/screenshots/dashboard.jpg) | ![s2](assets/screenshots/alltasks.jpg) | ![s3](assets/screenshots/calender.jpg) | ![s4](assets/screenshots/addnewtask.jpg)
 
 
