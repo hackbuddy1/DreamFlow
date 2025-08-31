@@ -14,7 +14,7 @@
 ## 📲 Download APK  
 
 <p align="center">
-  <a href="https://github.com/your-username/your-repo/raw/main/build/app/outputs/flutter-apk/app-release.apk">
+  <a href="https://github.com/hackbuddy1/DreamFlow/raw/main/build/app/outputs/flutter-apk/app-release.apk">
     <img src="https://img.shields.io/badge/⬇️ Download-App Release APK-brightgreen?style=for-the-badge&logo=android" />
   </a>
 </p>
